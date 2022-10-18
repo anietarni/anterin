@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "jewer.py",
+    name = "anterin.py",
     version = "0.1",
-    py_modules = ['jewer'],
-    url = "https://github.com/indraxz/jewer.git",
-    author = "indraxz",
+    py_modules = ['anterin'],
+    url = "https://github.com/anietarni/anterin.git",
+    author = "anterin",
     install_requires = ["pyngrok"]
 )
